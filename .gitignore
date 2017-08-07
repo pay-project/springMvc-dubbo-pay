@@ -1,6 +1,12 @@
 *.class
-
+*.gitignore
+*.settings
 # Package Files #
 *.jar
 *.war
 *.ear
+/target/
+/.settings/
+*.project
+*.classpath
+*apiclient_cert.p12
