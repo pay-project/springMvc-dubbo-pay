@@ -1,12 +1,13 @@
 #springMvc-dubbo-pay
-支付服务：支付宝，微信，银联详细 **代码案例** (除银联支付可以测试以外，支付宝和微信支付测试均需要企业认证，个人无法完成测试)，项目启动前请仔细阅读  **[注意事项]** :fa-hand-o-left:   。
+
+此版本为springMvc整合版，boot版本见[spring-boot-pay](http://https://git.oschina.net/52itstyle/spring-boot-pay)
 
 ##开发环境
 
 JDK1.7、Maven、Eclipse、springMvc4.3.1、thymeleaf3.0.0、Dubbox2.8.4、zookeeper3.4.6
 
 ##友情提示
-由于小伙伴们可能还没使用到spring—boot，特整理了springMvc版本，随时更新日志，有疑问请留言或者加群
+由于小伙伴们可能还没使用到spring_boot，特整理了springMvc版本，随时更新日志，有疑问请留言或者加群
 
 - JAVA爱好者①:<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=f316b04ba30f31190c0d8120b5c54acf245299726b4450fb6fc64753dd546bf8"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="JAVA爱好者①" title="JAVA爱好者①"></a> (满)
 - JAVA爱好者②:<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=b2fc105d5cf11231cd863dc829b82f50454b693ad20b892a362de5adbcc9b0b3"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="JAVA爱好者②" title="JAVA爱好者②"></a>
