@@ -53,7 +53,7 @@
         <property name="ignoreAcceptHeader" value="true"/>
         <property name="favorPathExtension" value="true"/>
 	</bean>
-	
+	<!-- Thymeleaf模版 -->
 	<bean id="templateResolver" class="org.thymeleaf.spring4.templateresolver.SpringResourceTemplateResolver">
         <property name="prefix" value="/WEB-INF/modules/" />
         <property name="suffix" value=".html" />
@@ -73,7 +73,7 @@
 	<!-- 对静态资源文件的访问， 将无法mapping到Controller的path交给default servlet handler处理 -->
 	<mvc:default-servlet-handler />
 	<!-- 静态资源映射  SpringMVC会自动给静态资源Response添加缓存头Cache-Control和Expires值 cache-period="31536000"-->
-   <!--  <mvc:resources mapping="/static/**" location="/static/" /> -->
+    <mvc:resources mapping="/static/**" location="/static/" />
     
     <!-- 定义无Controller的path<->view直接映射 -->
 	<mvc:view-controller path="/" view-name="redirect:${web.view.index}"/>

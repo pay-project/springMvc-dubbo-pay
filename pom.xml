@@ -134,12 +134,6 @@
 			<artifactId>alipay-sdk-java</artifactId>
 			<version>1.0.0</version>
 		</dependency>
-		<!-- 支付回调 -->
-		<dependency>
-			<groupId>com.acts</groupId>
-			<artifactId>acts-k12-pay</artifactId>
-			<version>1.0.0</version>
-		</dependency>
 		<!-- 银联使用bcprov-jdk16 -->
 		<dependency>
 			<groupId>org.bouncycastle</groupId>
@@ -231,7 +225,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>springMvc-dubbo_pay</finalName>
+		<finalName>springMvc-dubbo-pay</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
