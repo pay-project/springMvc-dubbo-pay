@@ -18,7 +18,7 @@ public class PayController {
 	private static final Logger logger = LoggerFactory.getLogger(PayController.class);
 
 	
-	@RequestMapping("/show")
+	@RequestMapping("/list")
 	public String greeting() {
 		return "index";
 	}

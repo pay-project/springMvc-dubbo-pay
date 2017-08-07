@@ -78,4 +78,6 @@
     <!-- 定义无Controller的path<->view直接映射 -->
 	<mvc:view-controller path="/" view-name="redirect:${web.view.index}"/>
 	
+	<!-- 自定义拦截器之类的 -->
+	
 </beans>
