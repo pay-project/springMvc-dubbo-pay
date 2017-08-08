@@ -1,12 +1,12 @@
-#springMvc-dubbo-pay
+# springMvc-dubbo-pay
 
 此版本为springMvc整合版，boot版本见[spring-boot-pay](http://https://git.oschina.net/52itstyle/spring-boot-pay)
 
-##开发环境
+## 开发环境
 
 JDK1.7、Maven、Eclipse、springMvc4.3.1、thymeleaf3.0.0、Dubbox2.8.4、zookeeper3.4.6
 
-##友情提示
+## 友情提示
 由于小伙伴们可能还没使用到spring_boot，特整理了springMvc版本，随时更新日志，有疑问请留言。
 
 
@@ -24,7 +24,7 @@ JDK1.7、Maven、Eclipse、springMvc4.3.1、thymeleaf3.0.0、Dubbox2.8.4、zooke
 ![扫码模式一](https://git.oschina.net/uploads/images/2017/0803/184824_420ca96d_87650.png "123.png")
 
 
-##支付宝
+## 支付宝
 
 - 电脑支付：https://docs.open.alipay.com/270
 - 扫码支付：https://docs.open.alipay.com/194
@@ -59,7 +59,7 @@ heartbeat_duration = 900
 
 ```
 
-##微信
+## 微信
 
 - H5支付：https://pay.weixin.qq.com/wiki/doc/api/H5.php?chapter=15_1
 - 公众号支付：https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=7_1
@@ -86,12 +86,12 @@ SIGN_TYPE = MD5
 CERT_PATH = apiclient_cert.p12
 ```
 
-##银联
+## 银联
 - 开放平台：https://open.unionpay.com/ajweb/index
 - 商家中心：https://merchant.unionpay.com/join/
 - 测试账号：https://blog.52itstyle.com/archives/326/
 
-##注意事项
+## 注意事项
 - 除银联支付可以测试以外，支付宝和微信支付测试均需要企业认证，个人无法完成测试
 - 项目中的支付宝SDk需要自行去官网下载打入本地仓库或者私服，提供下载地址：http://pan.baidu.com/s/1mi5LfhI
 - 微信退款证书，微信商户平台(pay.weixin.qq.com)-->账户中心-->账户设置-->API安全-->证书下载，使用apiclient_cert.p12即可
