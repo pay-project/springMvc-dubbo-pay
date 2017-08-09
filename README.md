@@ -9,6 +9,9 @@ JDK1.7、Maven、Eclipse、springMvc4.3.1、thymeleaf3.0.0、Dubbox2.8.4、zooke
 ## 友情提示
 由于小伙伴们可能还没使用到spring_boot，特整理了springMvc版本，随时更新日志，有疑问请留言。
 
+- JAVA爱好者①:<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=f316b04ba30f31190c0d8120b5c54acf245299726b4450fb6fc64753dd546bf8"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="JAVA爱好者①" title="JAVA爱好者①"></a> (满)
+- JAVA爱好者②:<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=b2fc105d5cf11231cd863dc829b82f50454b693ad20b892a362de5adbcc9b0b3"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="JAVA爱好者②" title="JAVA爱好者②"></a>
+- JAVA爱好者③:<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=cbee3cb06364401522ea90776a1bd83cdbbed20622b93a37158d41460537db96"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="JAVA爱好者③" title="JAVA爱好者③"></a>
 
 
 ## 演示界面
@@ -134,3 +137,8 @@ CERT_PATH = apiclient_cert.p12
 [支付宝扫码支付和微信扫码支付业务场景及问题记录](https://blog.52itstyle.com/archives/263/)
 
 [微信扫码支付(模式一)遇到的那些坑](https://blog.52itstyle.com/archives/1372/)
+
+
+作者： 小柒2012
+
+欢迎关注： https://blog.52itstyle.com
