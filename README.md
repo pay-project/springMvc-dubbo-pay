@@ -2,6 +2,21 @@
 
 此版本为springMvc整合版，boot版本见[spring-boot-pay](http://https://git.oschina.net/52itstyle/spring-boot-pay)
 
+以下所有支付Demo，绝非唬人，测试通过，真实有效！！！，如有疑问，敬请加群，统统解决。
+
+## 支付宝
+
+扫码支付、电脑支付、WAP支付
+
+## 微信
+
+扫码支付(模式一二)、公众号H5支付、WAP支付
+
+## 银联
+
+电脑支付、WAP支付
+
+
 ## 开发环境
 
 JDK1.7、Maven、Eclipse、springMvc4.3.1、thymeleaf3.0.0、Dubbox2.8.4、zookeeper3.4.6
