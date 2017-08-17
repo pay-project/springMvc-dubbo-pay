@@ -2,6 +2,8 @@
 
 此版本为springMvc整合版，boot版本见[spring-boot-pay](http://https://git.oschina.net/52itstyle/spring-boot-pay)
 
+有时候开发者想要的不一定是一个大而全的项目，而是可以集成到适合我们项目中的Demo。
+
 以下所有支付Demo，绝非唬人，测试通过，真实有效！！！，如有疑问，敬请加群，统统解决。
 
 ### 支付宝
