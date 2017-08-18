@@ -2,6 +2,23 @@
 
 此版本为springMvc整合版，boot版本见[spring-boot-pay](http://https://git.oschina.net/52itstyle/spring-boot-pay)
 
+有时候开发者想要的不一定是一个大而全的项目，而是可以集成到适合我们项目中的Demo。
+
+以下所有支付Demo，绝非唬人，测试通过，真实有效！！！，如有疑问，敬请加群，统统解决。
+
+### 支付宝
+
+扫码支付、电脑支付、WAP支付
+
+### 微信
+
+扫码支付(模式一二)、公众号H5支付、WAP支付
+
+### 银联
+
+电脑支付、WAP支付
+
+
 ## 开发环境
 
 JDK1.7、Maven、Eclipse、springMvc4.3.1、thymeleaf3.0.0、Dubbox2.8.4、zookeeper3.4.6
@@ -9,7 +26,7 @@ JDK1.7、Maven、Eclipse、springMvc4.3.1、thymeleaf3.0.0、Dubbox2.8.4、zooke
 ## 友情提示
 由于小伙伴们可能还没使用到spring_boot，特整理了springMvc版本，随时更新日志，有疑问请留言。
 
-- JAVA爱好者①:<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=f316b04ba30f31190c0d8120b5c54acf245299726b4450fb6fc64753dd546bf8"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="JAVA爱好者①" title="JAVA爱好者①"></a> (满)
+- JAVA爱好者①:<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=f316b04ba30f31190c0d8120b5c54acf245299726b4450fb6fc64753dd546bf8"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="JAVA爱好者①" title="JAVA爱好者①"></a> 
 - JAVA爱好者②:<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=b2fc105d5cf11231cd863dc829b82f50454b693ad20b892a362de5adbcc9b0b3"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="JAVA爱好者②" title="JAVA爱好者②"></a>
 - JAVA爱好者③:<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=cbee3cb06364401522ea90776a1bd83cdbbed20622b93a37158d41460537db96"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="JAVA爱好者③" title="JAVA爱好者③"></a>
 
