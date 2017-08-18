@@ -35,7 +35,7 @@ import com.itstyle.modules.alipay.util.AliPayConfig;
 @Service
 public class AliPayServiceImpl implements IAliPayService {
 	private static final Logger logger = LoggerFactory.getLogger(AliPayServiceImpl.class);
-	
+	//spring_boot实现方式 自行获取  回调参数notify_url
 	@Value("${alipay.notify.url}")
 	private String notify_url;
 	
