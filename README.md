@@ -1,6 +1,6 @@
 # springMvc-dubbo-pay
 
-此版本为springMvc整合版，boot版本见[spring-boot-pay](http://https://git.oschina.net/52itstyle/spring-boot-pay)
+此版本为springMvc整合版，boot版本见[spring-boot-pay](https://gitee.com/52itstyle/spring-boot-pay)
 
 有时候开发者想要的不一定是一个大而全的项目，而是可以集成到适合我们项目中的Demo。
 
